@@ -13,7 +13,7 @@ Metadata-edited .svs files can still be read by the MOTIC DSAssistant software (
 
 **** exiftool.exe by Phil Harvey, can be obtained from https://www.sno.phy.queensu.ca/~phil/exiftool/
 
-To use, simply drag the exported .svs file onto the batch file icon. Note: Exported file must be already in same directory as batch file icon.
+To use, simply drag the exported .svs file onto the batch file icon. Note: The file to convert must be already in same directory as batch file icon.
 
 Metadata will be edited, file will be exported to a subdirectory ("processed\"), original file will be deleted.
 
